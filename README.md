@@ -1,8 +1,8 @@
 # Git Exercises
 
 **Course:** CCC181  
-**Student Name:** <Last Name>, <First Name>  
-**Student ID:** <ID Number Without Hyphen>  
+**Student Name:** <Acol>, <Gayneth>  
+**Student ID:** <20241992>  
 
 ## Activity Description
 
