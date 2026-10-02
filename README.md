@@ -1,7 +1,7 @@
 # Git Exercises
 
 **Course:** CCC181  
-**Student Name:** <Acol> <Gayneth>  
+**Student Name:** <Acol, Gayneth>  
 **Student ID:** <20241992>  
 
 ## Activity Description
