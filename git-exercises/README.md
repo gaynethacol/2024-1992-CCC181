@@ -1,4 +1,4 @@
-[# Git Exercises
+# Git Exercises
 
 **Course:** CCC181  
 **Student Name:** <Acol, Gayneth>  
