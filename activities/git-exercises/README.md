@@ -1,6 +1,6 @@
 # Git Exercises
 
-Place the screenshots for your completed Git exercises in this folder.
+Place the photos or screenshots for your completed Git exercises in this folder.
 
 | Exercise | Screenshot |
 |---|---|
@@ -28,4 +28,4 @@ Place the screenshots for your completed Git exercises in this folder.
 | 22 | `Acol_Gayneth_22.png` |
 | 23 | `Acol_Gayneth_23.png` |
 
-The PNG files currently in this folder are placeholders. Replace them with your actual exercise screenshots before submitting.
+The PNG files currently in this folder are replaceable placeholders. To add your photos, save or export each one as a PNG using the matching filename above, then overwrite that placeholder. Keep the filenames unchanged so the list stays organized. Replace only the exercises you completed before submitting.
