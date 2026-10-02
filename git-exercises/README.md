@@ -1,4 +1,4 @@
-# Git Exercises
+[# Git Exercises
 
 **Course:** CCC181  
 **Student Name:** <Acol, Gayneth>  
@@ -56,3 +56,4 @@ activities/git-exercises/
 ## Declaration
 
 I confirm that the screenshots in this folder show my own completion or progress for the required Git Exercises activity.
+](https://github.com/gaynethacol/2024-1992-CCC181/tree/git-exercises)
